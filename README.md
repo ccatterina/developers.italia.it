@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92a97b26-4e6c-4408-9270-9603f951eccf/deploy-status)](https://app.netlify.com/sites/developers-italia/deploys) [![CircleCI](https://circleci.com/gh/italia/developers.italia.it.svg?style=svg)](https://circleci.com/gh/italia/developers.italia.it)
 
-The website of the developer community designing and developing public digital services in Italy.
+The website of the developer community designing and developing public digital services in Italy. 
 
 The website is developed using [Jekyll](https://jekyllrb.com/) and it's currently served through [GitHub pages](https://pages.github.com/).
 
